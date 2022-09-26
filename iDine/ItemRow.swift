@@ -16,9 +16,11 @@ struct ItemRow: View {
             Image(item.thumbnailImage)
                 .clipShape(Circle())
                 .overlay(Circle().stroke(Color.gray, lineWidth: 2))
+            
             VStack(alignment: .leading) {
                 Text(item.name)
                     .font(.headline)
+            
                 Text("$\(item.price)")
             }
             
