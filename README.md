@@ -27,12 +27,12 @@ Order
 
 <tr>
 <td>
-<img src="/screenshots/payment" width="300"/>
+<img src="/screenshots/payment.png" width="300"/>
 
 Payment
 </td>
 <td>
-<img src="/screenshots/payment_Result.png" width="300"/>
+<img src="/screenshots/payment_result.png" width="300"/>
 
 Payment Result
 </td>
